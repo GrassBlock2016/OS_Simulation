@@ -1,0 +1,7 @@
+[package]
+name = "BankerAlgorithm"
+version = "0.1.0"
+authors = ["GrassBlock2016 <i@qlexander.cn>"]
+edition = "2021"
+
+[dependencies]
